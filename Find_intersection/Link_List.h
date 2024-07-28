@@ -21,5 +21,6 @@ typedef struct head
 head * Create_list(void);
 void Add_node(head * h,elemtype x);
 void output(head * h);
+head *find_intersection(head *a,head *b);
 
 #endif //FIND_INTERSECTION_LINK_LIST_H
