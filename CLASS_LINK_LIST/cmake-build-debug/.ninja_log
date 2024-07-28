@@ -1,0 +1,12 @@
+# ninja log v6
+5	93	7436002993206854	CMakeFiles/List.dir/main.c.obj	9aaf20ca36070fb7
+4	108	7436011433364314	CMakeFiles/List.dir/link_list.c.obj	321c8bbe3db1b197
+109	226	7436011434494468	List.exe	cc89ca077ae6fa71
+7	87	7436011743348904	CMakeFiles/List.dir/main.c.obj	9aaf20ca36070fb7
+88	209	7436011744158341	List.exe	cc89ca077ae6fa71
+4	84	7436013754071219	CMakeFiles/List.dir/link_list.c.obj	321c8bbe3db1b197
+85	197	7436013754875811	List.exe	cc89ca077ae6fa71
+4	78	7436014565109605	CMakeFiles/List.dir/main.c.obj	9aaf20ca36070fb7
+79	190	7436014565870937	List.exe	cc89ca077ae6fa71
+5	104	7436021399991857	CMakeFiles/List.dir/link_list.c.obj	321c8bbe3db1b197
+105	225	7436021400981894	List.exe	cc89ca077ae6fa71

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CLASS_LINK_LIST",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-List-Debug-f0c236efa40fc6f4d27c.json",
+					"name" : "List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STATIC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STATIC-Debug-895582d3a09d5babe987.json",
+					"name" : "STATIC",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/share/\u6570\u636e\u7ed3\u6784-C/CLASS_LINK_LIST/cmake-build-debug",
+		"source" : "D:/share/\u6570\u636e\u7ed3\u6784-C/CLASS_LINK_LIST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,12 @@
+# ninja log v6
+5	63	7437953261570006	CMakeFiles/Find_intersection.dir/Link_List.c.obj	8b9a470b63a8b184
+1	77	7437953261530092	CMakeFiles/Find_intersection.dir/main.c.obj	9cf2161ef3843718
+77	191	7437953262288068	Find_intersection.exe	283203df0e3b19c8
+4	110	7437965689347313	CMakeFiles/Find_intersection.dir/Link_List.c.obj	8b9a470b63a8b184
+111	235	7437965690415898	Find_intersection.exe	283203df0e3b19c8
+4	80	7437966207759335	CMakeFiles/Find_intersection.dir/Link_List.c.obj	8b9a470b63a8b184
+81	195	7437966208527295	Find_intersection.exe	283203df0e3b19c8
+4	69	7437966497353231	CMakeFiles/Find_intersection.dir/main.c.obj	9cf2161ef3843718
+70	186	7437966498017905	Find_intersection.exe	283203df0e3b19c8
+3	90	7437967528490018	CMakeFiles/Find_intersection.dir/Link_List.c.obj	8b9a470b63a8b184
+91	211	7437967529366692	Find_intersection.exe	283203df0e3b19c8

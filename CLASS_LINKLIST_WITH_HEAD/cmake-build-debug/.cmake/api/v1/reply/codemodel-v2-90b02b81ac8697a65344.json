@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CLASS_LINKLIST_WITH_HEAD",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CLASS_LINKLIST_WITH_HEAD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CLASS_LINKLIST_WITH_HEAD-Debug-72c9e0806f063de33db7.json",
+					"name" : "CLASS_LINKLIST_WITH_HEAD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HEAD_LIST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HEAD_LIST-Debug-cd156b80acff9340c996.json",
+					"name" : "HEAD_LIST",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/share/\u6570\u636e\u7ed3\u6784-C/CLASS_LINKLIST_WITH_HEAD/cmake-build-debug",
+		"source" : "D:/share/\u6570\u636e\u7ed3\u6784-C/CLASS_LINKLIST_WITH_HEAD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
