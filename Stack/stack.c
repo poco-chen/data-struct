@@ -91,7 +91,7 @@ int pop(stack *s,elemtype *x)
 }
 int push(stack *s,elemtype x)
 {
-    if(!s)
+    if(!s||!s->data||s->len==100)
     {
         return 0;
     }
